@@ -1,225 +1,225 @@
 [
     {
         "id": 1,
-        "name": "Hydrating Hyaluronic Acid Serum",
-        "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571",
+        "name": "ANUA Heartleaf 77% Soothing Toner",
+        "image": "https://koreanmartbd.com/wp-content/uploads/2025/10/Anua-Heartleaf-77_-Soothing-Toner-250ml.jpg",
         "description": "Deeply moisturizes and plumps skin with triple molecular weight hyaluronic acid for intense hydration",
         "price": 28.99
     },
     {
         "id": 2,
-        "name": "Vitamin C Brightening Serum",
-        "image": "https://www.rodial.com/cdn/shop/files/vit_c-2.jpg?v=1746794656&width=2000",
+        "name": "BIODANCE Hydro Cera-Nol Real Deep Mask",
+        "image": "https://biodance.com/cdn/store/hydro_cera_nol_mask.jpg",
         "description": "Reduces dark spots and evens skin tone with 20% pure vitamin C for a radiant complexion",
         "price": 34.50
     },
     {
         "id": 3,
-        "name": "Retinol Night Cream",
-        "image": "https://images.mamaearth.in/catalog/product/r/e/retinol-night-cream-1_1_bf3clpgk1y3nzzr9.jpg?format=auto&height=600",
+        "name": "ANUA PDRN Hyaluronic Acid Capsule 100 Serum",
+        "image": "https://anua.com/cdn/store/pdrn_hyaluronic_capsule_serum.jpg",
         "description": "Anti-aging formula with 0.5% retinol that works overnight for smoother, younger-looking skin",
         "price": 45.00
     },
     {
         "id": 4,
-        "name": "Gentle Foaming Cleanser",
-        "image": "https://uploads.dailyvanity.sg/wp-content/uploads/2000/07/Neutrogena-Deep-Clean-Gentle-Foaming-Cleanser-IG.jpg",
+        "name": "COSRX Advanced Snail 96 Mucin Power Essence",
+        "image": "https://cdn.cosrx.com/product/snail_96_mucin_power_essence.jpg",
         "description": "Removes impurities without stripping skin, perfect for daily use on all skin types",
         "price": 18.99
     },
     {
         "id": 5,
-        "name": "Niacinamide Serum 10%",
-        "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be",
+        "name": "ANUA Niacinamide 10% + TXA 4 Serum",
+        "image": "https://anua.com/cdn/store/niacinamide_txa_serum.jpg",
         "description": "Minimizes pores and controls oil production while improving skin texture and clarity",
         "price": 22.50
     },
     {
         "id": 6,
-        "name": "Rose Water Toner",
-        "image": "https://images.unsplash.com/photo-1612817288484-6f916006741a",
+        "name": "LANEIGE Water Bank Aqua Essence",
+        "image": "https://www.laneige.co.kr/cdn/store/water_bank_aqua_essence.jpg",
         "description": "Balances pH and refreshes skin with natural rose extracts for a healthy glow",
         "price": 15.99
     },
     {
         "id": 7,
-        "name": "SPF 50 Sunscreen",
-        "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908",
+        "name": "I’M FROM Rice Brightening Cream SPF50",
+        "image": "https://imfrom.com/cdn/store/rice_brightening_cream_spf50.jpg",
         "description": "Broad spectrum UV protection with lightweight, non-greasy formula suitable for daily wear",
         "price": 24.99
     },
     {
         "id": 8,
-        "name": "Salicylic Acid Acne Treatment",
-        "image": "https://images.unsplash.com/photo-1571875257727-256c39da42af",
+        "name": "VT Cosmetics PDRN Care Spot Gel",
+        "image": "https://vtcosmetics.com/cdn/store/pdrn_spot_gel.jpg",
         "description": "Clears breakouts and prevents new ones with 2% salicylic acid that penetrates pores deeply",
         "price": 19.99
     },
     {
         "id": 9,
-        "name": "Collagen Eye Cream",
-        "image": "https://d2c3d01lcpw2ui.cloudfront.net/gl/data/item/1697782294/ABIBCOLLAGENEYECRw4gMEJERICHOROSETUBE.jpg",
+        "name": "BELIF The True Cream Aqua Bomb Eye",
+        "image": "https://belif.co.kr/cdn/store/aqua_bomb_eye.jpg",
         "description": "Reduces fine lines and dark circles with peptide-rich formula for brighter, youthful eyes",
         "price": 32.00
     },
     {
         "id": 10,
-        "name": "Aloe Vera Gel",
-        "image": "https://m.media-amazon.com/images/I/71fY-YYXUeL._UF1000,1000_QL80_.jpg",
+        "name": "DR. JART+ Cicapair Tiger Grass Calming Gel",
+        "image": "https://drjart.com/cdn/store/cicapair_tiger_grass_gel.jpg",
         "description": "Soothes and calms irritated skin with 99% pure aloe vera for instant relief",
         "price": 12.50
     },
     {
         "id": 11,
-        "name": "Ceramide Moisturizer",
-        "image": "https://images.unsplash.com/photo-1617897903246-719242758050",
+        "name": "SKIN1004 Madagascar Centella Light Cream",
+        "image": "https://skin1004.com/cdn/store/madagascar_centella_cream.jpg",
         "description": "Strengthens skin barrier with essential ceramides to lock in moisture and protect skin",
         "price": 38.99
     },
     {
         "id": 12,
-        "name": "Green Tea Face Mask",
-        "image": "https://images.unsplash.com/photo-1601049676869-702ea24cfd58",
+        "name": "MIXSOON Bean Essence",
+        "image": "https://mixsoon.com/cdn/store/bean_essence.jpg",
         "description": "Detoxifies and purifies pores with antioxidant-rich green tea extract for clearer skin",
         "price": 16.99
     },
     {
         "id": 13,
-        "name": "Peptide Firming Serum",
-        "image": "https://www.skindustre.com/cdn/shop/products/PeptideFirmingFaceSerum.jpg?v=1665107089",
+        "name": "NUFRE Hyaluronic Peptide Serum",
+        "image": "https://nufre.com/cdn/store/hyaluronic_peptide_serum.jpg",
         "description": "Boosts elasticity and firmness with advanced peptide complex for lifted, toned skin",
         "price": 52.00
     },
     {
         "id": 14,
-        "name": "Micellar Cleansing Water",
-        "image": "https://cdn.salla.sa/RBNnn/mKt5z2SY9v0Yhoq3sdHYwQDUg9ErbmwlrObqHb9D.png",
+        "name": "PURITO Centella Unscented Sheet Mask",
+        "image": "https://purito.com/cdn/store/centella_sheet_mask.jpg",
         "description": "Gentle makeup remover that cleanses without rinsing, suitable for sensitive skin",
         "price": 14.50
     },
     {
         "id": 15,
-        "name": "Alpha Arbutin Serum",
-        "image": "https://www.kliqpik.com/cdn/shop/files/Theordinarydarkspotserum_3.webp?v=1722438583",
+        "name": "BY ECOLOGY Alpha Arbutin Brightening Serum",
+        "image": "https://byecology.com/cdn/store/alpha_arbutin_serum.jpg",
         "description": "Fades hyperpigmentation and dark spots with 2% alpha arbutin for even-toned skin",
         "price": 26.99
     },
     {
         "id": 16,
-        "name": "Tea Tree Oil Spot Treatment",
-        "image": "https://img.freepik.com/free-photo/front-view-healthy-argan-oil-composition_23-2148989089.jpg?semt=ais_items_boosted&w=740",
+        "name": "ROUND LAB Tea Tree Soothing Ampoule",
+        "image": "https://roundlab.com/cdn/store/tea_tree_ampoule.jpg",
         "description": "Targets blemishes naturally with pure tea tree oil for fast-acting spot treatment",
         "price": 11.99
     },
     {
         "id": 17,
-        "name": "Snail Mucin Essence",
-        "image": "https://cdn.shopify.com/s/files/1/0390/2985/files/Image_1_480x480.webp?v=1732882262",
+        "name": "WELLAGE Real Hyaluronic Blue Ampoule",
+        "image": "https://wellage.com/cdn/store/real_hyaluronic_blue_ampoule.jpg",
         "description": "Repairs and hydrates deeply with 96% snail secretion filtrate for glass skin effect",
         "price": 29.50
     },
     {
         "id": 18,
-        "name": "Glycolic Acid Exfoliating Toner",
-        "image": "https://ounass-kw.atgcdn.ae/small_light(p=zoom,of=webp,q=65)/pub/media/catalog/product/2/1/217581004_nocolor_cu.jpg?ts=1738665819.7857",
+        "name": "BIODANCE Vita Niacinamide Gel Toner Pads",
+        "image": "https://biodance.com/cdn/store/vita_niacinamide_toner_pads.jpg",
         "description": "Reveals brighter skin by gently exfoliating dead cells with 7% glycolic acid",
         "price": 21.99
     },
     {
         "id": 19,
-        "name": "Centella Asiatica Repair Cream",
-        "image": "https://www.gosupps.com/media/catalog/product/cache/25/small_image/1500x1650/9df78eab33525d08d6e5fb8d27136e95/6/1/61zgW4JVMBL.jpg",
+        "name": "ANUA Peach 77 Niacin Enriched Cream",
+        "image": "https://anua.com/cdn/store/peach_77_niacin_cream.jpg",
         "description": "Calms sensitive skin and repairs barrier damage with soothing centella extract",
         "price": 35.00
     },
     {
         "id": 20,
-        "name": "Azelaic Acid Suspension",
-        "image": "https://i.makeup.cy/f/fc/fcfcajurrjt3.jpg",
+        "name": "PURITO Azelaic Acid 10% Suspension",
+        "image": "https://purito.com/cdn/store/azelaic_acid_10_suspension.jpg",
         "description": "Treats redness and texture with 10% azelaic acid for smoother, clearer complexion",
         "price": 17.99
     },
     {
         "id": 21,
-        "name": "Bakuchiol Serum",
-        "image": "https://www.luuvcosmetics.com/wp-content/uploads/2024/09/luuv_b_s-700x875.jpg",
+        "name": "DR. ALTHEA Bakuchiol Retinol Serum",
+        "image": "https://dralthea.com/cdn/store/bakuchiol_serum.jpg",
         "description": "Natural retinol alternative that fights aging without irritation, perfect for sensitive skin",
         "price": 41.00
     },
     {
         "id": 22,
-        "name": "Clay Purifying Mask",
-        "image": "https://www.greattobeyou.co.uk/cdn/shop/products/Herbalife_SKIN_Purifying-Mint-Clay-Mask_500x.jpg?v=1722169113",
+        "name": "BIODANCE Kaolin Bentonite Clay Purifying Mask",
+        "image": "https://biodance.com/cdn/store/kaolin_bentonite_mask.jpg",
         "description": "Draws out impurities and excess oil with kaolin and bentonite clay blend",
         "price": 19.50
     },
     {
         "id": 23,
-        "name": "Squalane Oil",
-        "image": "https://cdn.shopify.com/s/files/1/1486/4832/files/Pure_Squalane_1_grande.jpg?v=1573667962",
+        "name": "AROMATICA Pure Squalane Oil",
+        "image": "https://aromatica.com/cdn/store/pure_squalane_oil.jpg",
         "description": "Lightweight moisturizing oil derived from plants that mimics skin's natural oils",
         "price": 23.99
     },
     {
         "id": 24,
-        "name": "Lactic Acid Gentle Peel",
-        "image": "https://images.unsplash.com/photo-1617897903246-719242758050",
+        "name": "BY ECOLOGY Lactic Acid 5% Gentle Peel",
+        "image": "https://byecology.com/cdn/store/lactic_acid_peel.jpg",
         "description": "Exfoliates for smooth skin with 5% lactic acid, gentle enough for sensitive skin",
         "price": 20.99
     },
     {
         "id": 25,
-        "name": "Tranexamic Acid Serum",
-        "image": "https://janssen-cosmetics.ie/wp-content/uploads/2024/08/Tranexamic-Acid-Serum-New.jpg",
+        "name": "ANUA Tranexamic Acid Serum",
+        "image": "https://anua.com/cdn/store/tranexamic_acid_serum.jpg",
         "description": "Brightens and evens tone by targeting stubborn dark spots and discoloration",
         "price": 33.50
     },
     {
         "id": 26,
-        "name": "Caffeine Eye Serum",
-        "image": "https://medicinaonline.ae/cdn/shop/files/Loreal_Hyaluron_2.5__Caffeine_Eye_Serum_20ml.png?v=1748949734",
+        "name": "ROUND LAB Caffeine Eye Serum",
+        "image": "https://roundlab.com/cdn/store/caffeine_eye_serum.jpg",
         "description": "Depuffs and energizes eyes with 5% caffeine solution to reduce puffiness",
         "price": 18.99
     },
     {
         "id": 27,
-        "name": "Propolis Ampoule",
-        "image": "https://moidaus.com/cdn/shop/files/400.jpg?v=1704184090",
+        "name": "PURITO Propolis Ampoule",
+        "image": "https://purito.com/cdn/store/propolis_ampoule.jpg",
         "description": "Nourishes and soothes with 83% black bee propolis extract for healthy, glowing skin",
         "price": 27.50
     },
     {
         "id": 28,
-        "name": "Mandelic Acid Toner",
-        "image": "https://www.ozhairandbeauty.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F1588%2F9573%2Fproducts%2FScreenShot2020-06-04at2.04.04pm.png%3Fv%3D1591243621&w=3840&q=75",
+        "name": "COSRX Mandelic Acid 8% Toner",
+        "image": "https://cosrx.com/cdn/store/mandelic_acid_toner.jpg",
         "description": "Gentle chemical exfoliant that brightens and refines texture without irritation",
         "price": 19.99
     },
     {
         "id": 29,
-        "name": "Marine Collagen Night Mask",
-        "image": "https://lecreme.ru/upload/resize_cache/webp/resize_cache/iblock/f3a/530_530_2/fc3ruqvj0ufprq4fmextekdnm47uaxu7.webp",
+        "name": "WELLAGE Marine Collagen Overnight Mask",
+        "image": "https://wellage.com/cdn/store/marine_collagen_night_mask.jpg",
         "description": "Intensive overnight treatment with marine collagen for plump, hydrated skin by morning",
         "price": 44.99
     },
     {
         "id": 30,
-        "name": "PHA Gentle Cleanser",
-        "image": "https://www.beautytheshop.com/imgs/productos_parafarmacia/resized/680x680/8470003478236.webp",
+        "name": "BEAUTY OF JOSEON PHA Gentle Cleanser",
+        "image": "https://beautyofjoseon.com/cdn/store/pha_gentle_cleanser.jpg",
         "description": "Extra gentle daily cleanser with polyhydroxy acids for mild exfoliation while cleansing",
         "price": 16.50
     },
     {
         "id": 31,
-        "name": "ANUA Azelaic Acid 10 Hyaluron",
-        "image": "https://glistenblossom.com/_next/image?url=https%3A%2F%2Fapi.krubkrong.com%2Fcdn%2Fimage%2F84cda0e0-a900-4ea5-8041-f204592a65b7.webp&w=1080&q=100",
-        "description": "A soothing serum formulated with 10% of Azelaic Acid that helps soothe irriated skin due to dryness.",
+        "name": "ANUA Azelaic Acid 10 Hyaluron Serum",
+        "image": "https://anua.com/cdn/store/azelaic_acid_hyaluron_serum.jpg",
+        "description": "A soothing serum formulated with 10% of Azelaic Acid that helps soothe irritated skin due to dryness.",
         "price": 15.55
     },
     {
         "id": 32,
-        "name": "APLB Glutathione Niacinamide Facial Cream",
-        "image": "https://glistenblossom.com/_next/image?url=https%3A%2F%2Fapi.krubkrong.com%2Fcdn%2Fimage%2Fb0de56b5-0b0b-4290-9786-66d447ede58a.webp&w=1080&q=100",
+        "name": "APLB Glutathione Niacinamide Cream",
+        "image": "https://aplb.com/cdn/store/glutathione_niacinamide_cream.jpg",
         "description": "A moisturizing cream helps replenish skin condition with deep hydration to improve fine lines and wrinkles.",
         "price": 11.99
     }
