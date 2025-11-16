@@ -3,224 +3,224 @@
         "id": 1,
         "name": "ANUA Heartleaf 77% Soothing Toner",
         "image": "https://skinuriofficial.com/cdn/shop/files/Screenshot2023-10-09at09.52.05.png?v=1697978267&width=1445",
-        "description": " Heartleaf 77% soothing toner is perfectly formulated to soothe, tone, hydrate, and balance the PH level of skin. Use after cleansing as both morning & night skincare regimen. With mild ingredients, Anua heartleaf 77% soothing toner may be used everyday. You may apply with a cotton pad or pat with your finger all over the face.",
+        "description": "A soothing toner with 77% heartleaf that calms irritation, hydrates deeply, and helps balance the skin for a fresh, healthy feel.",
          "price": 23
     },
     {
         "id": 2,
         "name": "BIODANCE Hydro Cera-Nol Real Deep Mask",
         "image": "https://biodance.com/cdn/shop/files/2510_4_52e32c03-f684-466d-8a55-bdec91f7e73e.jpg?v=1760339665",
-        "description": "BIODANCE'S PATENTED INGREDIENT HYDRO CERA-NOL Contains Hydro Cera-nol to soothe the skin and strengthen its barrier.",
+        "description": "A barrier-strengthening mask infused with Hydro Cera-Nol to soothe sensitive skin, lock in moisture, and leave a smooth, glowing finish.",
         "price": 19
     },
     {
         "id": 3,
         "name": "ANUA PDRN Hyaluronic Acid Capsule 100 Serum",
         "image": "https://princesscosmeticsqa.com/cdn/shop/files/anua-pdrn-hyaluronic-acid-capsule-100-serum-30ml-anoa-pdrn-kbsol-hmd-alhyaloronyk-100-msl-5998097.jpg?v=1758719079&width=1946",
-        "description": "Anua PDRN Hyaluronic Acid Capsule 100 Serum 30ml is a hydrating emerald-toned serum that brings essential hydration and nourishment to your skin. Formulated with key ingredients, this serum is perfect for those seeking to enhance their natural radiance.",
+        "description": "A hydrating serum with PDRN and hyaluronic capsules that boosts moisture, smooths texture, and gives skin a plump, radiant look.",
         "price": 27.72
     },
     {
         "id": 4,
         "name": "COSRX Advanced Snail 96 Mucin Power Essence",
         "image": "https://m.media-amazon.com/images/I/71qDjF6q3nL._SL1500_.jpg",
-        "description": "Light-weight essence which absorbs into the skin fast to give skin a natural glow from the inside. This essence is created from nutritious, low-stimulation filtered snail mucin to keep your skin moisturized and illuminated all day.",
+        "description": "A lightweight essence with 96% snail mucin that hydrates, repairs damaged skin, and restores a natural, healthy glow.",
         "price": 25
     },
     {
         "id": 5,
         "name": "ANUA Niacinamide 10% + TXA 4 Serum",
         "image": "https://holtrenfrew.scene7.com/is/image/HoltRenfrew1/u_8809640734526_04?$Thumbnail$",
-        "description": "A watery serum enriched with 10% Niacinamide and 4% Tranexamic Acid to target at stubborn dark spots and hyperpigmentation by helping to reduce discoloration. How to use: Apply a few drops to affected areas and gradually increase the usage period as needed. Use in the morning and at night before applying oils and moisturizers.When using in the morning, be sure to apply sunscreen with SPF 30 or higher",
+        "description": "A brightening serum with 10% niacinamide and TXA that fades dark spots, evens skin tone, and improves overall clarity.",
         "price": 27
     },
     {
         "id": 6,
         "name": "LANEIGE Water Bank Aqua Essence",
         "image": "https://media.pamper.my/2022/03/211230-laneige23946-%C2%A6%CB%9C-s.jpg",
-        "description": "LANEIGE Water Bank Blue Hyaluronic 2 Step Essential Set For Oily To Combination Skin is a Korean skincare set made with small molecular weight hyaluronic acid and PHA to help restore optimal moisture balance. It has watery, lightweight and non-greasy texture that restores deep hydration for those with oily or combination skin. This skincare set also helps rebuild skin barrier to increase its resilience against external environmental stressors, keeping the skin fresh, supple to the touch.",
+        "description": "A refreshing gel essence that delivers long-lasting hydration while strengthening the moisture barrier for soft, balanced skin.",
         "price": 15.99
     },
     {
         "id": 7,
         "name": "I'M FROM Rice Brightening Cream SPF50",
         "image": "https://skinnora.com/wp-content/uploads/2025/02/Im-From-Rice-Sunscreen-SPF-50-Pa-50ml.jpg",
-        "description": "I'M FROM Rice Sunscreen is a mineral sunscreen that contains 41% Goami Rice Extracts from Yeoju, South Korea which can help remove skin impurities for a softer and smoother skin texture and brighter complexion.Rice Sunscreen has completed the SPF testing on human skin with the result of SPF 50+ PA++++. Contains Non-nano Zinc Oxide that can block both UVA and UVB.",
+        "description":"A brightening mineral sunscreen with 41% rice extract that smooths dull skin while offering powerful SPF50+ PA++++ protection.",
         "price": 27
     },
     {
         "id": 8,
         "name": "VT Cosmetics PDRN Care Spot Gel",
         "image": "https://globalvt-cosmetics.com/cdn/shop/files/Father_sDay__3.jpg?v=1749109252",
-        "description": "VT PDRN Cream 100 is designed to enhance vitality and deliver a radiant complexion while deeply repairing the skin. How to use:Step 1 At the moisturizer step of your skincare routine, apply an appropriate amount of VT PDRN Cream 100 to your face. Step 2 Gently spread it along your skin texture and allow it to fully absorb. For optimal results, use regularly to enhance glow, firmness, and vitality. ",
+        "description": "A PDRN-infused spot gel that repairs damaged areas, boosts skin vitality, and enhances firmness and radiance." ,
         "price": 29.58
     },
     {
         "id": 9,
         "name": "BELIF The True Cream Aqua Bomb Eye",
         "image": "https://preview.redd.it/slhd7s6cz5r41.jpg?width=1080&crop=smart&auto=webp&s=c59510e61ec33accbcdb5f9027b2b8611b9ff1c1",
-        "description": "Reduces fine lines and dark circles with peptide-rich formula for brighter, youthful eyes , This lightweight and refreshing eye cream delivers intense hydration, keeping the delicate eye area moisturized for up to 48 hours while smoothing fine lines and reducing the appearance of wrinkles with the help of caffeine and bakuchiol. Formulated with antioxidant-rich Centella Asiatica (cica), it soothes and revitalizes the skin, boosting elasticity and resilience for flawless makeup application.",
+        "description": "A hydrating eye cream with peptides and caffeine that reduces puffiness, softens fine lines, and brightens dark circles.",
         "price": 48
     },
     {
         "id": 10,
         "name": "DR. JART+ Cicapair Tiger Grass Calming Gel",
         "image": "https://www.drjart.com/media/export/cms/products/1000x1000/dj_sku_DJ0296_1000x1000_0.jpg",
-        "description": "K-beauty and dermatology brand Dr.Jart+ offers stressed skin instant relief with Tiger Grass Calming Gel Cream; an ultralight gel that hydrates and soothes sensitive skin, alleviating redness, rosacea and areas of irritation.",
+        "description": "A calming gel cream with Tiger Grass that reduces redness, soothes irritation, and cools sensitive, stressed skin.",
         "price": 12.50
     },
     {
         "id": 11,
         "name": "SKIN1004 Madagascar Centella Light Cream",
         "image": "https://m.media-amazon.com/images/I/51C4KXoAM1L._AC_UF350,350_QL80_.jpg",
-        "description": "A light cream with a gel texture, designed to instantly cool and deeply hydrate the skin, leaving it smooth and soft. Aloe Vera Leaf Extract and Adenosine help improve skin firmness and tighten enlarged pores, while Niacinamide, a skin-lightening ingredient, helps improve the discoloration of dark spots for flawless skin.",
+        "description": "A centella-based cream that hydrates, tightens pores, brightens tone, and calms irritation with a refreshing finish." ,
         "price": 15
     },
     {
         "id": 12,
         "name": "MIXSOON Bean Essence",
         "image": "https://skincare.pl/en/img/14100/odzywcza-esencja-do-twarzy-mixsoon-bean-essence-5",
-        "description": "mixsoon Bean Essence is a gentle, 2-in-1 exfoliating and hydrating essence that helps smooth unevenly textured skin. It works to moisturize, remove dead skin cells, and revitalize the skin tone, giving your complexion a fresh and youthful glow. This product's formula contains fermented soybean, barley, pomegranate, and Korean pear, which help remove dead skin cells to smooth and soften the skin, improve its hydration, and provide antioxidant benefits.",
+        "description": "A gentle exfoliating essence with fermented bean extracts that smooths texture, hydrates, and improves skin clarity." ,
         "price": 33.71
     },
     {
         "id": 13,
         "name": "NUFRE Hyaluronic Peptide Serum",
         "image": "https://m.media-amazon.com/images/I/61EIPveWM9L._UF1000,1000_QL80_.jpg",
-        "description": "A clean, powerhouse serum booster that enhances microcurrent results! Formulated with IonPlex™ technology, a Triple-Peptide Complex & Peony Root Extract, each drop delivers a super surge of ingredients to improve skin's firmness and elasticity while actively reducing fine lines. Skin is left hydrated and smooth. Can be used alone as part of your skincare regimen or prior to activating.",
+        "description": "A peptide-rich serum that boosts elasticity, smooths fine lines, and deeply hydrates for firmer, healthier-looking skin.",
         "price": 65
     },
     {
         "id": 14,
         "name": "PURITO Centella Unscented Sheet Mask",
         "image": "https://skinshine.es/cdn/shop/files/purito-seoul-wonder-releaf-centella-cream-unscented-282976.jpg?v=1746943794&width=1946",
-        "description": "Formerly the Centella Unscented Recovery Cream, this newly repackaged version of PURITO’s beloved moisturizer is anchored in K-Beauty staples like cica, squalane and ceramide NP for calming, barrier-supporting and moisturizing care. The formula is fragrance-free.",
+        "description":"A soothing sheet mask with centella, squalane, and ceramides that calms sensitivity and strengthens the skin barrier.",
         "price": 14.50
     },
     {
         "id": 15,
         "name": "Alpha Arbutin Brightening Serum",
         "image": "https://beautifulstore.in/wp-content/uploads/2024/02/pil18.jpg",
-        "description": "Reclaim your complexion with the Pilgrim Alpha Arbutin & Vitamin C Brightening Serum. This serum absorbs rapidly from the skin to provide instant brightness. A unique blend of Alpha Arbutin, Vitamin C, and Blueberry, it promotes an even skin tone. Alpha Arbutin is a revolutionary ingredient that fades areas of hyperpigmentation, diminishes the appearance of dark spots, and refines the complexion. ",
+        "description":"A brightening serum with alpha arbutin and vitamin C that fades dark spots, evens tone, and boosts natural radiance.",
         "price": 26.99
     },
     {
         "id": 16,
         "name": "ROUND LAB Tea Tree Soothing Ampoule",
         "image": "https://sentisenti.com/cdn/shop/products/round-lab-pine-calming-cica-ampoule-details-oo35mm.jpg?v=1676661404&width=2048",
-        "description": "Targets blemishes naturally with pure tea tree oil for fast-acting spot treatment.From the leaf of a pine tree, we discovered sustainability.The unique calming ingredient developed by Round Lab was made by gathering up fallen pine leaves without harming the tree",
+        "description": "A calming ampoule with tea tree that reduces blemishes, soothes irritation, and refreshes sensitive, troubled skin.",
         "price": 11.99
     },
     {
         "id": 17,
         "name": "WELLAGE Real Hyaluronic Blue Ampoule",
         "image": "https://store.wellage.jp/cdn/shop/files/3_2a836cf3-bcc5-4c7f-9737-f0c041258f83_1200x1200.jpg?v=1739863826",
-        "description": "Transform your skin with WELLAGE Real Hyaluronic Blue Ampoule 100, a deeply hydrating treatment powered by 100% pure hyaluronic acid that mimics your skin's natural moisture structure. Enriched with 9 multi-molecular hyaluronic acids, this ampoule penetrates multiple skin layers for profound, long-lasting hydration and a plumper, smoother complexion.",
+        "description":"A deeply hydrating ampoule with multi-weight hyaluronic acids that delivers long-lasting moisture and smooth, plump skin." ,
         "price": 29.50
     },
     {
         "id": 18,
         "name": "BIODANCE Vita Niacinamide Gel Toner Pads",
         "image": "https://cdn.shopify.com/s/files/1/1588/9573/files/Biodance_Vita_Niacinamide_Gel_Toner_Pads_60_Pads_8.jpg?v=1753328036",
-        "description": "Reveals brighter skin by gently exfoliating dead cells with 7% glycolic acid.TRIPLE ACNTION CARE TONE, TEXTURE, RADIANCE Vita Niacinamide Gel Toner Pads are infused with niacinamide, pineapple water, and glutathione to brighten, smooth, and enhance skin's natural glow.",
+        "description": "Brightening toner pads with niacinamide and fruit extracts that refine texture, hydrate, and enhance radiance." ,
         "price": 21.99
     },
     {
         "id": 19,
         "name": "ANUA Peach 77 Niacin Enriched Cream",
         "image": "https://koco.ee/1812-large_default/anua-peach-77-niacin-enriched-cream-50ml.jpg",
-        "description": "Anua Peach 77 Niacin Enriched Cream is a nourishing face cream for all skin types. Enriched with niacin, this intensive moisturising cream nourishes and revitalises the skin with peach extract and niacinamide, offering a treatment that combines hydration and radiance. Peach 77 Niacin Enriched Cream is boosted with ceramide, collagen and panthenol, which help to strengthen the skin barrier and keep the skin supple and resilient. Its light, gel-like texture absorbs quickly without leaving a residue, making it ideal for all skin types.",
+        "description":"A nourishing cream with 77% peach extract and niacinamide that hydrates, brightens, and leaves skin soft and healthy." ,
         "price": 35.00
     },
     {
         "id": 20,
         "name": "PURITO Azelaic Acid 10% Suspension",
         "image": "https://theskincarelibrary.com/cdn/shop/files/PuritoSeoulAzelaicAcid10KojicTeaTreeSerum2_1200x.png?v=1761480997",
-        "description": "Fight acne, uneven skin tone, and pigmentation changes with PURITO SEOUL Azelaic Acid 10 Kojic Tea Tree Serum - an advanced serum that combines 10% azelaic acid, kojic acid complex, and tea tree water to promote clearer, balanced, and smoother skin. The carefully crafted formula soothes irritation, reduces redness, and prevents future breakouts without drying out the skin.",
+        "description": "A clarifying serum with 10% azelaic acid and tea tree that reduces redness, smooths uneven tone, and fades acne marks." ,
         "price": 17.99
     },
     {
         "id": 21,
         "name": "DR.ALTHEA Bakuchiol Retinol Serum",
         "image": "https://sukoshi.com/cdn/shop/files/Dr.-Althea-0.1_-Gentle-Retinol-Serum-1_1024x1024.jpg?v=1745868513",
-        "description": "0.1% Gentle Retinol Serum is a low-irritation formula designed to nurture resilient skin with the combined power of Retinol and Bakuchiol.Crafted with a carefully balanced blend of Bakuchiol, renowned for its pore elasticity effect, and pure Retinol, this serum offers comprehensive elasticity care. Perfect for those with skin sensitive to Retinol's stimulation, the blend of retinol and Bakuchiol maximizes effectiveness while minimizing irritation.",
+        "description": "A gentle retinol and bakuchiol serum that boosts elasticity, softens fine lines, and improves texture with minimal irritation.",
         "price": 41.00
     },
     {
         "id": 22,
         "name": "Kaolin Bentonite Clay Purifying Mask",
         "image": "https://www.saltspringsoapworks.com/cdn/shop/products/kaolin-clay-mud-mask-120ml_grande.jpg?v=1747778206",
-        "description": "Earthy and mineral-rich, like getting your hands dirty in the pottery studio. A mask formulated for detoxification, our Kaolin Clay Mud Mask is made with kaolin and bentonite clays to pull impurities and oil from the skin, while potent herbs calm and peppermint cools. For normal to oily skin.",
+        "description": "A purifying clay mask with kaolin and bentonite that absorbs excess oil, clears pores, and leaves skin fresh and detoxified.",
         "price": 19.50
     },
     {
         "id": 23,
         "name": "Pure Squalane Oil",
         "image": "https://purish.com/cdn/shop/files/1-minimalist-squalane-100-face-oil-purish.jpg?v=1725283580",
-        "description": "An exquisite addition to our esteemed skincare range. This vegan-friendly oil is meticulously crafted to the highest standards, ensuring it is 100% pure and suitable for all skin types. Derived from olives, our Olive Squalane is a testament to its purity. It is carefully extracted and free from any animal-derived ingredients, aligning with our commitment to vegan-friendly products. We take great pride in delivering a product that is not only effective but also ethically sourced and environmentally conscious.",
+        "description":"A lightweight squalane oil that hydrates, softens, and strengthens the skin barrier without feeling greasy.",
         "price": 23.99
     },
     {
         "id": 24,
         "name": "Lactic Acid 5% Gentle Peel",
         "image": "https://www.biovenebarcelona.com/cdn/shop/products/Box_unit_Serum_No2_3D_2021.jpg?v=1632140742",
-        "description": "This water-based serum is formulated for gentle yet effective surface-level exfoliation. Unlike physical exfoliants that use scrubs, this product uses alpha hydroxy acid (AHA) to break down the bonds between dead skin cells, helping to improve skin texture and tone.",
+        "description":"A mild 5% lactic acid serum that gently exfoliates, smooths texture, and brightens dull skin with minimal irritation." ,
         "price": 20.99
     },
     {
         "id": 25,
         "name": "ANUA Tranexamic Acid Serum",
         "image": "https://anua.global/cdn/shop/files/anua-us-ampoule-serum-30ml-niacinamide-10-txa-4-serum-1161173091_grande.png?v=1749716795",
-        "description": "Brightens and evens tone by targeting stubborn dark spots and discoloration, This serum is a highly effective, targeted treatment designed to brighten the complexion and fade hyperpigmentation, such as dark spots, acne scars, and general uneven skin tone.",
+        "description":"A brightening serum with tranexamic acid that targets dark spots, reduces discoloration, and improves uneven skin tone.",
         "price": 33.50
     },
     {
         "id": 26,
         "name": "ROUND LAB Caffeine Eye Serum",
         "image": "https://assets.benable.com/rec_object_photos/39144770/full_size/805c70c16e0a0c6f0a69.jpeg",
-        "description": "Depuffs and energizes eyes with 5% caffeine solution to reduce puffiness",
+        "description": "A lightweight caffeine eye serum that reduces puffiness, brightens tired under-eyes, and keeps the skin smooth and refreshed.",
         "price": 18.99
     },
     {
         "id": 27,
         "name": "PURITO Propolis Ampoule",
         "image": "https://ohlolly.com/cdn/shop/files/Cosrx_Propolis_Light_Ampoule.jpg?v=1758154298&width=1200",
-        "description": "Intensive caring ampule with 83% of Black Bee Propolis Extract and naturally originated moisturizing ingredients which will make your skin glowy and smooth without stickiness. ",
+        "description": "A hydrating ampoule with 83% propolis to nourish, smooth, and boost the skin's natural glow and resilience.",
         "price": 27.50
     },
     {
         "id": 28,
         "name": "COSRX Mandelic Acid 8% Toner",
         "image": "https://cdnx.jumpseller.com/tienda-mi-estilo1/image/11448320/resize/918/918?1653832768",
-        "description": "Gentle chemical exfoliant that brightens and refines texture without irritation, The formulation of AHA+BHA+Purifying Botanical ingredients help to improve skin texture, increase vitality, and control pores. Eliminate impurities, exfoliate, and hydrate all in one step. ",
+        "description": "A gentle mandelic acid toner that exfoliates dead skin, brightens dullness, and smooths uneven texture.",
         "price": 19.99
     },
     {
         "id": 29,
         "name": "WELLAGE Marine Collagen Overnight Mask",
         "image": "https://www.lamourlife.com/cdn/shop/files/RealHyaluronicBlueAmpouleMask5Sheetsn1.jpg?v=1738955109&width=1500",
-        "description": "Intensive overnight treatment with marine collagen for plump, hydrated skin by morning.WELLAGE Real Hyaluronic Glow Booster PDRN Hydrogel Face Sheet Mask - Over night Face Masks for Deep Moisture Plumping and Radiant Skin - Korean Skincare, 5 Sheets",
+        "description":"An overnight mask with marine collagen that restores moisture, firms skin, and leaves it plump and radiant by morning.",
         "price": 44.99
     },
     {
         "id": 30,
         "name": "BEAUTY OF JOSEON PHA Gentle Cleanser",
         "image": "https://koreanshop.ca/wp-content/uploads/2024/08/Beauty-of-Joseon-Green-Plum-Refreshing-Cleanser-3.38-fl-oz-100-ml.png",
-        "description": "The Beauty of Joseon Green Plum Refreshing Cleanser is a low pH cleanser which contains mung bean extract that creates a synergistic effect with plum water, a natural herbal ingredient, and helps remove dead skin cells and sebum. This light gel-type hypoallergenic, mildly acidic cleanser does not dry out the skin easily and helps retain moisture after cleansing. The plum water and mung bean seed extract give a fresh feel while also keeping the skin moist and healthy.",
+        "description": "A mild gel cleanser with plum water and PHA that removes impurities while keeping skin hydrated and soft.",
         "price": 16.50
     },
     {
         "id": 31,
         "name": "ANUA Azelaic Acid 10 Hyaluron Serum",
         "image": "https://static.ksisters.com/public/skus/l/b5d65542c9e1229577ca3b42f3109a3e_gy6fmzje_dfe19cd99ed4e6.webp",
-        "description": "A soothing serum formulated with 10% of Azelaic Acid that helps soothe irritated skin due to dryness.A lightweight serum formulated with soothing & hydrating ingredients, suitable for sensitive skin, helps improves redness and troubled areas.",
+        "description": "A soothing serum with 10% azelaic acid that reduces redness, hydrates, and improves uneven skin texture.",
         "price": 15.55
     },
     {
         "id": 32,
         "name": "APLB Glutathione Niacinamide Cream",
         "image": "https://cdn-image.oliveyoung.com/prdtImg/1141/c2a5f263-c098-4641-9069-9c2fa1194e96.jpg?RS=1500x1500&AR=0&SF=webp&QT=80",
-        "description": "A moisturizing cream helps replenish skin condition with deep hydration to improve fine lines and wrinkles. Enriched with Glutathione Niacinamide and Centella Asiatica to increase skin elasticity while soothes irritated skin. Purifies and revitalize dull skin to a brighter tone.",
+        "description": "A nourishing cream with glutathione and niacinamide that brightens, hydrates, and improves the appearance of fine lines.",
         "price": 11.99
     }
 ]
